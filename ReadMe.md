@@ -9,4 +9,6 @@ Step 2 -open terminal
 
 Step 3 -start app run docker-compose up -d
 
-Step 3 -stop app run docker-compose down
+Step 4 -open http://localhost:3000/#/ in browser
+
+Step 5 -stop app run docker-compose down
